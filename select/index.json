@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ふたりのきもちのほんとのひみつ(TVサイズ)",
+  "base_artist": "やすなとソーニャ(cv:赤﨑千夏・田村睦心)",
+  "createdAt": "2026-03-06T09:24:07.066670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふたりのきもちのほんとのひみつ (TVサイズ)",
+      "artist": "やすなとソーニャ（cv：赤﨑千夏 & 田村睦心）",
+      "has_synced": true,
+      "path": "select/01_ふたりのきもちのほんとのひみつ_(TVサイズ)_やすなとソーニャ(cv_赤﨑千夏_&_田村睦心).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりのきもちのほんとのひみつ",
+      "artist": "やすなとソーニャ(cv:赤﨑千夏・田村睦心)",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりのきもちのほんとのひみつ_やすなとソーニャ(cv_赤﨑千夏・田村睦心).txt"
+    }
+  ]
+}
